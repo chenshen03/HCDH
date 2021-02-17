@@ -2,6 +2,7 @@
 
 This resposity is the pytorch implementation of our paper HCDH: Hadamard Codebook based Deep Hashing ([link](https://arxiv.org/pdf/1910.09182.pdf)).
 
+![image-20210217173236178](https://tva1.sinaimg.cn/large/008eGmZEly1gnqnxabkeoj312m0czq65.jpg)
 
 ## Requirements
 - Python 3.6

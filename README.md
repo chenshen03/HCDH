@@ -3,14 +3,12 @@
 This resposity is the pytorch implementation of our paper HCDH: Hadamard Codebook based Deep Hashing ([link](https://arxiv.org/pdf/1910.09182.pdf)).
 
 
-## Dependency
+## Requirements
 - Python 3.6
 - PyTorch == 1.4.0
 
 ## Datasets
-- CIFAR
-- NUS-WIDE
-- ImageNet
+The data list of datasets **CIFAR-10**、**NUS-WIDE** and **ImageNet** are provides in [Baidu Yun](https://pan.baidu.com/s/1Kxnmo7b07OL_NKtsCRi2DA) (code: tkrb).
 
 ## Usage
 **Train/Test**

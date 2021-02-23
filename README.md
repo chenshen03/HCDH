@@ -17,9 +17,10 @@ The data list of datasets **CIFAR-10**、**NUS-WIDE** and **ImageNet** are provi
 python main.py --gpus 0 --dataset cifar_s1 --feat-dim 32 --prefix AlexNet_32bit
 ```
 
-## Citations
-If our paper helps your research, please cite it in your publications:
-```
+## Citation
+Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follows.
+
+```BibTeX
 @article{Chen2019HadamardCB,
   title={Hadamard Codebook Based Deep Hashing},
   author={S. Chen and Liujuan Cao and Mingbao Lin and Yan Wang and Xiaoshuai Sun and Chenglin Wu and Jingfei Qiu and Rongrong Ji},
